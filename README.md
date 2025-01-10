@@ -5,7 +5,7 @@ The aim of this project is to gain a comprehensive understanding of the risk and
 
 ## Installation
 Prerequisite: Python 3.8+
-git clone URL
+\ngit clone URL
 
 ## Usage Instructions 
 Open exploratory_data_analysis for part 1 of the project  followed by analysis_and_visualisation for part 2. 
